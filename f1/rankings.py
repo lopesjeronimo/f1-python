@@ -6,7 +6,7 @@ class ChampionshipRankings:
 
     def __init__(self):
         with open('datasets/champions_by_season.csv') as csvfile:
-            reader = csv.DictReader(csvfile, delimiter=';')
+            reader = csv.DictReader(csvfile)
             self.dataset = list(reader)
 
         self.list_of_champions = [r['champion'] for r in self.dataset]

@@ -1,71 +1,71 @@
-year;champion;runner
-1950;Giuseppe Farina;Juan Manuel Fangio
-1951;Juan Manuel Fangio;Alberto Ascari
-1952;Alberto Ascari;Guiseppe Farina
-1953;Alberto Ascari;Juan Manuel Fangio
-1954;Juan Manuel Fangio;José Froilán González
-1955;Juan Manuel Fangio;Stirling Moss
-1956;Juan Manuel Fangio;Stirling Moss
-1957;Juan Manuel Fangio;Stirling Moss
-1958;Mike Hawthorn;Stirling Moss
-1959;Jack Brabham;Tony Brooks
-1960;Jack Brabham;Bruce McLaren
-1961;Phil Hill;Wolfgang von Trips†
-1962;Graham Hill;Jim Clark
-1963;Jim Clark;Graham Hill
-1964;John Surtees;Graham Hill
-1965;Jim Clark;Graham Hill
-1966;Jack Brabham;John Surtees
-1967;Denny Hulme;Jack Brabham
-1968;Graham Hill;Jackie Stewart
-1969;Jackie Stewart;Jacky Ickx
-1970;Jochen Rindt;Jacky Ickx
-1971;Jackie Stewart;Ronnie Peterson
-1972;Emmerson Fittipaldi;Jackie Stewart
-1973;Jackie Stewart;Emerson Fittipaldi
-1974;Emmerson Fittipaldi;Clay Regazzoni
-1975;Niki Lauda;Emerson Fittipaldi
-1976;James Hunt;Niki Lauda
-1977;Niki Lauda;Jody Scheckter
-1978;Mario Andretti;Ronnie Peterson†
-1979;Jody Scheckter;Gilles Villeneuve
-1980;Alan Jones;Nelson Piquet
-1981;Nelson Piquet;Carlos Reutemann
-1982;Keke Rosberg;Didier Pironi
-1983;Nelson Piquet;Alain Prost
-1984;Niki Lauda;Alain Prost
-1985;Alain Prost;Michele Alboreto
-1986;Alain Prost;Nigel Mansell
-1987;Nelson Piquet;Nigel Mansell
-1988;Ayrton Senna;Alain Prost
-1989;Alain Prost;Ayrton Senna
-1990;Ayrton Senna;Alain Prost
-1991;Ayrton Senna;Nigel Mansell
-1992;Nigel Mansell;Riccardo Patrese
-1993;Alain Prost;Ayrton Senna
-1994;Michael Schumacher;Damon Hill
-1995;Michael Schumacher;Damon Hill
-1996;Damon Hill;Jacques Villeneuve
-1997;Jacques Villeneuve;Heinz-Harald Frentzen*
-1998;Mika Hakkinen;Michael Schumacher
-1999;Mika Hakkinen;Eddie Irvine
-2000;Michael Schumacher;Mika Hakkinen
-2001;Michael Schumacher;David Coulthard
-2002;Michael Schumacher;Rubens Barrichello
-2003;Michael Schumacher;Kimi Raikkonen
-2004;Michael Schumacher;Rubens Barrichello
-2005;Fernando Alonso;Kimi Raikkonen
-2006;Fernando Alonso;Michael Schumacher
-2007;Kimi Raikkonen;Lewis Hamilton
-2008;Lewis Hamilton;Felipe Massa
-2009;Jenson Button;Sebastian Vettel
-2010;Sebastian Vettel;Fernando Alonso
-2011;Sebastian Vettel;Jenson Button
-2012;Sebastian Vettel;Fernando Alonso
-2013;Sebastian Vettel;Fernando Alonso
-2014;Lewis Hamilton;Nico Rosberg
-2015;Lewis Hamilton;Nico Rosberg
-2016;Nico Rosberg;Lewis Hamilton
-2017;Lewis Hamilton;Sebastian Vettel
-2018;Lewis Hamilton;Sebastian Vettel
-2019;Lewis Hamilton;Valtteri Bottas
+year,champion,runner
+1950,Giuseppe Farina,Juan Manuel Fangio
+1951,Juan Manuel Fangio,Alberto Ascari
+1952,Alberto Ascari,Guiseppe Farina
+1953,Alberto Ascari,Juan Manuel Fangio
+1954,Juan Manuel Fangio,José Froilán González
+1955,Juan Manuel Fangio,Stirling Moss
+1956,Juan Manuel Fangio,Stirling Moss
+1957,Juan Manuel Fangio,Stirling Moss
+1958,Mike Hawthorn,Stirling Moss
+1959,Jack Brabham,Tony Brooks
+1960,Jack Brabham,Bruce McLaren
+1961,Phil Hill,Wolfgang von Trips†
+1962,Graham Hill,Jim Clark
+1963,Jim Clark,Graham Hill
+1964,John Surtees,Graham Hill
+1965,Jim Clark,Graham Hill
+1966,Jack Brabham,John Surtees
+1967,Denny Hulme,Jack Brabham
+1968,Graham Hill,Jackie Stewart
+1969,Jackie Stewart,Jacky Ickx
+1970,Jochen Rindt,Jacky Ickx
+1971,Jackie Stewart,Ronnie Peterson
+1972,Emmerson Fittipaldi,Jackie Stewart
+1973,Jackie Stewart,Emerson Fittipaldi
+1974,Emmerson Fittipaldi,Clay Regazzoni
+1975,Niki Lauda,Emerson Fittipaldi
+1976,James Hunt,Niki Lauda
+1977,Niki Lauda,Jody Scheckter
+1978,Mario Andretti,Ronnie Peterson†
+1979,Jody Scheckter,Gilles Villeneuve
+1980,Alan Jones,Nelson Piquet
+1981,Nelson Piquet,Carlos Reutemann
+1982,Keke Rosberg,Didier Pironi
+1983,Nelson Piquet,Alain Prost
+1984,Niki Lauda,Alain Prost
+1985,Alain Prost,Michele Alboreto
+1986,Alain Prost,Nigel Mansell
+1987,Nelson Piquet,Nigel Mansell
+1988,Ayrton Senna,Alain Prost
+1989,Alain Prost,Ayrton Senna
+1990,Ayrton Senna,Alain Prost
+1991,Ayrton Senna,Nigel Mansell
+1992,Nigel Mansell,Riccardo Patrese
+1993,Alain Prost,Ayrton Senna
+1994,Michael Schumacher,Damon Hill
+1995,Michael Schumacher,Damon Hill
+1996,Damon Hill,Jacques Villeneuve
+1997,Jacques Villeneuve,Heinz-Harald Frentzen*
+1998,Mika Hakkinen,Michael Schumacher
+1999,Mika Hakkinen,Eddie Irvine
+2000,Michael Schumacher,Mika Hakkinen
+2001,Michael Schumacher,David Coulthard
+2002,Michael Schumacher,Rubens Barrichello
+2003,Michael Schumacher,Kimi Raikkonen
+2004,Michael Schumacher,Rubens Barrichello
+2005,Fernando Alonso,Kimi Raikkonen
+2006,Fernando Alonso,Michael Schumacher
+2007,Kimi Raikkonen,Lewis Hamilton
+2008,Lewis Hamilton,Felipe Massa
+2009,Jenson Button,Sebastian Vettel
+2010,Sebastian Vettel,Fernando Alonso
+2011,Sebastian Vettel,Jenson Button
+2012,Sebastian Vettel,Fernando Alonso
+2013,Sebastian Vettel,Fernando Alonso
+2014,Lewis Hamilton,Nico Rosberg
+2015,Lewis Hamilton,Nico Rosberg
+2016,Nico Rosberg,Lewis Hamilton
+2017,Lewis Hamilton,Sebastian Vettel
+2018,Lewis Hamilton,Sebastian Vettel
+2019,Lewis Hamilton,Valtteri Bottas
